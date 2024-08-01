@@ -7,16 +7,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Utsav Chouhan</h1>
-<h3 align="center">A exploring student and a developer🧑‍💻.</h3>
+<h1>Hi 👋, I'm Utsav</h1>
+<h3>A Student And A Developer🧑‍💻.</h3>
 
-- 🔭 I’m currently working on **to elevate my coding skills and mine-out the knowledge.**
-
-- 🌱 I’m currently learning **Python, web dev(Reactjs, Nodejs), DSA.**
-
-- 👯 I’m looking to collaborate on **web projects using Java Script.**
-
-- ⚡ Fun fact **Running the code without any error is always so satisfying.**
+- 🔭 I’m currently working on <strong>to elevate my coding skills and mine-out the knowledge.</strong>
+- 🌱 I’m currently learning <strong>Python, web dev(Reactjs, Nodejs), DSA.</strong>
+- 👯 I’m looking to collaborate on <strong>web projects using Java Script.</strong>
+- ⚡ Fun fact :- <strong>Running the code without any error is always so satisfying.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

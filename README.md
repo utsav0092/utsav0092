@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 -->
 <h1>Hi 👋, I'm Utsav</h1>
-<h3>A Student And A Developer🧑‍💻.</h3>
+<h3>A Student and a Developer🧑‍💻.</h3>
 
 - 🔭 I’m currently working on <strong>to elevate my coding skills and mine-out the knowledge.</strong>
 - 🌱 I’m currently learning <strong>Python, web dev(Reactjs, Nodejs), DSA.</strong>

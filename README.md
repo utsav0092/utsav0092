@@ -7,9 +7,9 @@
     <b>Full Stack Developer | Data Science Enthusiast | Pythonista</b>
   </p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20232A&center=true&vCenter=true&width=435&lines=Elevating+my+coding+skills;Mining+out+knowledge;Building+Web+Apps;Crunching+Data" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Elevating+my+coding+skills;Mining+out+knowledge;Building+Web+Apps;Crunching+Data" alt="Typing SVG" />
+</a>
   
   <br/>
 
@@ -55,8 +55,8 @@ I work with a variety of tools to build scalable applications and analyze data.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsav0092&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav0092&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=utsav0092&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav0092&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" /> -->
 </div>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=utsav0092&theme=radical&hide_border=true" alt="streak graph" />

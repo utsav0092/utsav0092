@@ -62,9 +62,3 @@ I work with a variety of tools to build scalable applications and analyze data.
   <img src="https://nirzak-streak-stats.vercel.app/?user=utsav0092&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=utsav0092&icon=5&color=6" />
-  </a>
-</div>

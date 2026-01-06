@@ -50,11 +50,11 @@
 const utsav = {
     pronouns: "He" | "Him",
     location: "Vadodara, Gujarat, India 🇮🇳",
-    code: ["JavaScript", "Python", "Java", "C"],
-    askMeAbout: ["web dev", "data science", "app dev"],
+    code: ["JavaScript", "Python", "Java"],
+    askMeAbout: ["Web Dev", "Data Science", "AIML"],
     technologies: {
         frontEnd: {
-            js: ["React", "EJS"],
+            js: ["React", "EJS", "HTML5", "CSS3"],
             css: ["TailwindCSS", "Bootstrap"]
         },
         backEnd: {
